@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting Started
+title: Gettings Started
 sidebar:
   - title: Report Writing, Communication Tips, and Community Guidelines
     links:
